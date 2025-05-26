@@ -1,0 +1,159 @@
+.page-header__stats {
+    font-size: 1rem;
+    color: var(--color-text-secondary);
+    margin-top: 0.5rem;
+}
+
+.favorite {
+    padding: 2rem;
+}
+
+.favorite__container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.favorite__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.favorite-card {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    position: relative;
+}
+
+.favorite-card:hover {
+    transform: translateY(-4px);
+}
+
+.favorite-card__image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.favorite-card__content {
+    padding: 1.5rem;
+}
+
+.favorite-card__title {
+    font-size: 1.25rem;
+    color: var(--color-text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.favorite-card__rating {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    color: var(--color-warning);
+    margin-bottom: 0.5rem;
+}
+
+.favorite-card__price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--color-primary);
+}
+
+.favorite-card__price-period {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+}
+
+.favorite-card__refundable {
+    display: inline-block;
+    background-color: var(--color-success-light);
+    color: var(--color-success);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+}
+
+.favorite-card__remove {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background-color: var(--color-error);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.favorite-card:hover .favorite-card__remove {
+    opacity: 1;
+}
+
+.favorite-card__remove:hover {
+    background-color: var(--color-error-dark);
+}
+
+.empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--color-text-secondary);
+}
+
+.empty-state__icon {
+    font-size: 4rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 1rem;
+}
+
+.empty-state h2 {
+    font-size: 1.5rem;
+    color: var(--color-text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.empty-state p {
+    margin-bottom: 2rem;
+}
+
+.empty-state__button {
+    display: inline-block;
+    background-color: var(--color-primary);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.empty-state__button:hover {
+    background-color: var(--color-primary-dark);
+}
+
+@media screen and (max-width: 768px) {
+    .favorite {
+        padding: 1rem;
+    }
+
+    .favorite__grid {
+        grid-template-columns: 1fr;
+    }
+
+    .favorite-card__remove {
+        opacity: 1;
+        position: static;
+        width: 100%;
+        justify-content: center;
+        border-radius: 0;
+    }
+} 

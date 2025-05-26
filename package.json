@@ -1,0 +1,37 @@
+{
+    "name": "wisatapas",
+    "version": "1.0.0",
+    "description": "Aplikasi pencarian akomodasi terbaik untuk perjalanan Anda",
+    "main": "index.js",
+    "scripts": {
+        "start-dev": "webpack serve --config webpack/webpack.dev.js",
+        "build": "webpack --config webpack/webpack.prod.js",
+        "serve": "http-server dist",
+        "test": "jest",
+        "lint": "eslint ./src"
+    },
+    "keywords": [
+        "wisata",
+        "hotel",
+        "akomodasi"
+    ],
+    "author": "Meng Capstone",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.22.0",
+        "@babel/preset-env": "^7.22.0",
+        "babel-loader": "^9.1.2",
+        "copy-webpack-plugin": "^11.0.0",
+        "css-loader": "^6.8.1",
+        "dotenv": "^16.5.0",
+        "dotenv-webpack": "^8.0.1",
+        "eslint": "^8.41.0",
+        "html-webpack-plugin": "^5.5.1",
+        "http-server": "^14.1.1",
+        "style-loader": "^3.3.3",
+        "webpack": "^5.99.9",
+        "webpack-cli": "^5.1.1",
+        "webpack-dev-server": "^4.15.0",
+        "webpack-merge": "^5.9.0"
+    }
+}

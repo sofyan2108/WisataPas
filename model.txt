@@ -1,0 +1,898 @@
+<html lang="en"><head><meta charset="utf-8"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"><link rel="preload" href="/_next/static/media/a34f9d1faa5f3315-s.p.woff2" as="font" crossorigin="" type="font/woff2"><link rel="preload" as="image" href="/assets/logos/logo-amethyst.svg"><link rel="stylesheet" href="/_next/static/css/8d4c984f5a6bb47c.css" data-precedence="next"><link rel="stylesheet" href="/_next/static/css/2326e1988d72ed3f.css" data-precedence="next"><link rel="preload" as="script" fetchpriority="low" href="/_next/static/chunks/webpack-d838859af2d0b8b1.js"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TFMPJG7S"></script><script src="/_next/static/chunks/fd9d1056-767da5d39185966c.js" async=""></script><script src="/_next/static/chunks/396464d2-4d7c22055cb36a2d.js" async=""></script><script src="/_next/static/chunks/8814-f67b5cf359fc29de.js" async=""></script><script src="/_next/static/chunks/main-app-abe4eda0d3146895.js" async=""></script><script src="/_next/static/chunks/bc9e92e6-fea4cc479744e9e0.js" async=""></script><script src="/_next/static/chunks/8084c5f1-e864c89bf612e00e.js" async=""></script><script src="/_next/static/chunks/9da6db1e-7dbf354dab8d2e23.js" async=""></script><script src="/_next/static/chunks/491-5890810b0d956073.js" async=""></script><script src="/_next/static/chunks/3985-290e0b84a6708602.js" async=""></script><script src="/_next/static/chunks/8953-d099eb2363fdd7f2.js" async=""></script><script src="/_next/static/chunks/5042-7e662ebb46905d22.js" async=""></script><script src="/_next/static/chunks/4599-0e1c4df66acd9192.js" async=""></script><script src="/_next/static/chunks/6542-3dde77f10256ecb9.js" async=""></script><script src="/_next/static/chunks/4109-4cde00c8718cc2ad.js" async=""></script><script src="/_next/static/chunks/4632-d62bca3422f1cab5.js" async=""></script><script src="/_next/static/chunks/7268-43d8a7a92be5a644.js" async=""></script><script src="/_next/static/chunks/8154-45ca0321b1553065.js" async=""></script><script src="/_next/static/chunks/1190-8bb231f42f84beb1.js" async=""></script><script src="/_next/static/chunks/7809-d2e6af82653053d8.js" async=""></script><script src="/_next/static/chunks/app/layout-2dfdecfeb9679e20.js" async=""></script><script src="/_next/static/chunks/6691-fa0dda0097f10503.js" async=""></script><script src="/_next/static/chunks/8326-e5f01e9a00bbd03d.js" async=""></script><script src="/_next/static/chunks/9929-2959897ab7efa9b5.js" async=""></script><script src="/_next/static/chunks/9996-f87b475f2494fae6.js" async=""></script><script src="/_next/static/chunks/3304-a9a0b0f0da9b849d.js" async=""></script><script src="/_next/static/chunks/4232-9224ca820bd9fbbc.js" async=""></script><script src="/_next/static/chunks/53-edc52b2ae9a5c7ac.js" async=""></script><script src="/_next/static/chunks/6143-7674ddc083da44a0.js" async=""></script><script src="/_next/static/chunks/9605-42df32224a6a94ec.js" async=""></script><script src="/_next/static/chunks/2366-075377493397c3a8.js" async=""></script><script src="/_next/static/chunks/3486-9c75c03c9a7fdf41.js" async=""></script><script src="/_next/static/chunks/3184-a24276f58880c718.js" async=""></script><script src="/_next/static/chunks/app/page-265c220f7234a312.js" async=""></script><script src="/_next/static/chunks/8377-f3da839525cc5138.js" async=""></script><script src="/_next/static/chunks/9452-390de722d37163be.js" async=""></script><script src="/_next/static/chunks/9554-dfcc96ceda208e48.js" async=""></script><script src="/_next/static/chunks/1208-057bec9fde14642f.js" async=""></script><script src="/_next/static/chunks/app/p/%5Bpreview%5D/layout-e2c1e7d943b37fad.js" async=""></script><script src="/_next/static/chunks/7074-3b0de4b504fff7f6.js" async=""></script><script src="/_next/static/chunks/825-0053e5961921fdb9.js" async=""></script><script src="/_next/static/chunks/app/p/%5Bpreview%5D/page-e1140a90c287e4cc.js" async=""></script><link rel="preload" href="//fw-cdn.com/12327869/4773415.js" as="script"><link rel="preload" href="https://www.googletagmanager.com/gtag/js?id=G-9L2Y115NQ3" as="script"><link rel="preload" href="https://cdn.tolt.io/tolt.js" as="script"><link rel="preload" href="https://js.stripe.com/v3/" as="script"><title>UX Pilot - Superfast UX/UI Design with AI</title><meta name="description" content="Generate Wireframes and UI Designs with the most flexible AI model. Design &amp; Ship faster your products with AI."><meta property="og:title" content="UX Pilot - Superfast UX/UI Design with AI"><meta property="og:description" content="Generate Wireframes and UI Designs with the most flexible AI model. Design &amp; Ship faster your products with AI."><meta property="og:url" content="https://uxpilot.ai/"><meta property="og:site_name" content="uxpilot.ai"><meta property="og:image" content="https://uxpilot.ai/assets/images/ux-pilot-sm.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:creator" content="@uxpilotai"><meta name="twitter:title" content="UX Pilot - Superfast UX Design with AI"><meta name="twitter:description" content="Generate Wireframes and UI Designs with the most flexible AI model. Design &amp; Ship faster your products with AI."><meta name="twitter:image" content="https://uxpilot.ai/assets/images/ux-pilot-sm.png"><meta name="next-size-adjust"><link rel="icon" href="/favicon.ico"><meta name="theme-color" content="#000000"><link rel="apple-touch-icon" href="/logo192.png"><link rel="manifest" href="/manifest.json"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet"><script type="text/javascript" id="vwoCode">window._vwo_code||(function(){var account_id=1060647,version=2.1,settings_tolerance=2000,hide_element='body',hide_element_style='opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){w._vwo_code.addScript({text:o.responseText})}else{w._vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}w._vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){w._vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index:2147483647!important;position:fixed!important;left:0!important;top:0!important;width:100%!important;height:100%!important;background:white!important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init()})();(function(){var i=window;function t(){if(i._vwo_code){var e=t.hidingStyle=document.getElementById('_vis_opt_path_hides')||t.hidingStyle;if(!i._vwo_code.finished()&&!_vwo_code.libExecuted&&(!i.VWO||!VWO.dNR)){if(!document.getElementById('_vis_opt_path_hides')){document.getElementsByTagName('head')[0].appendChild(e)}requestAnimationFrame(t)}}}t()});</script><noscript><iframe title="gtm" src="https://www.googletagmanager.com/ns.html?id=GTM-TFMPJG7S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><noscript>UX Pilot</noscript><script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" nomodule=""></script><script type="text/javascript" nonce="">_vwo_code.finish();</script><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .MuiDialog-container {
+    height: auto;
+  }
+}
+.MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .MuiDialog-paperWidthXs.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .MuiDialog-paperWidthSm.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .MuiDialog-paperWidthMd.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .MuiDialog-paperWidthLg.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .MuiDialog-paperWidthXl.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.MuiDialog-paperFullScreen.MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><script src="https://js.stripe.com/v3"></script><script src="https://cdn.jsdelivr.net/npm/psl/dist/psl.min.js"></script><script id="freshchat-js-sdk" async="" src="https://uxpilot-afb75f146cd4e4817350100.freshchat.com/js/widget.js"></script><link href="https://uxpilot-afb75f146cd4e4817350100.freshchat.com/widget/css/widget.css?t=1748233030381" rel="stylesheet"></head><body class="__className_d65c78"><!--$--><div class="Toastify"></div><div class="w-full relative bg-carbon-100 flex flex-col"><main class="flex-grow overflow-y-auto"><div><div class="w-full h-full"><iframe title="wireframe-PtL774JuMVMsV8APastE" srcdoc="<!DOCTYPE html><html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;><head>
+    <meta charset=&quot;UTF-8&quot; />
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; />
+    <script src=&quot;https://cdn.tailwindcss.com&quot;></script>
+    <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;></script>
+    <style>::-webkit-scrollbar { display: none;}</style>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Poppins', 'sans-serif'],
+                    },
+                    colors: {
+                        primary: {
+                            50: '#f0f9ff',
+                            100: '#e0f2fe',
+                            200: '#bae6fd',
+                            300: '#7dd3fc',
+                            400: '#38bdf8',
+                            500: '#0ea5e9',
+                            600: '#0284c7',
+                            700: '#0369a1',
+                            800: '#075985',
+                            900: '#0c4a6e',
+                        },
+                        secondary: {
+                            50: '#f5f3ff',
+                            100: '#ede9fe',
+                            200: '#ddd6fe',
+                            300: '#c4b5fd',
+                            400: '#a78bfa',
+                            500: '#8b5cf6',
+                            600: '#7c3aed',
+                            700: '#6d28d9',
+                            800: '#5b21b6',
+                            900: '#4c1d95',
+                        },
+                    }
+                }
+            }
+        }
+    </script>
+<link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot; /><link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin=&quot;&quot; /><link rel=&quot;stylesheet&quot; href=&quot;https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600;700;800;900&amp;amp;display=swap&quot; /><style>
+      body {
+        font-family: 'Inter', sans-serif !important;
+      }
+      
+      /* Preserve Font Awesome icons */
+      .fa, .fas, .far, .fal, .fab {
+        font-family: &quot;Font Awesome 6 Free&quot;, &quot;Font Awesome 6 Brands&quot; !important;
+      }
+    </style><style>
+  .highlighted-section {
+    outline: 2px solid #3F20FB;
+    background-color: rgba(63, 32, 251, 0.1);
+  }
+
+  .edit-button {
+    position: absolute;
+    z-index: 1000;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  html, body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  </style></head>
+<body class=&quot;font-sans bg-gray-50 text-gray-800&quot;>
+    <!-- Header -->
+    <header id=&quot;header&quot; class=&quot;sticky top-0 z-50 bg-white shadow-sm&quot;>
+        <div class=&quot;container mx-auto px-4 py-3 flex items-center justify-between&quot;>
+            <div class=&quot;flex items-center&quot;>
+                <span class=&quot;flex items-center cursor-pointer&quot;>
+                    <div class=&quot;bg-gradient-to-r from-primary-600 to-secondary-600 rounded-full p-2 mr-2&quot;>
+                        <i class=&quot;fa-solid fa-compass text-white text-xl&quot;></i>
+                    </div>
+                    <span class=&quot;text-gray-800 font-bold text-xl&quot;>TravelGuide</span>
+                </span>
+            </div>
+            
+            <div class=&quot;hidden md:flex items-center space-x-8&quot;>
+                <span class=&quot;font-medium hover:text-primary-600 transition-colors cursor-pointer&quot;>Beranda</span>
+                <span class=&quot;font-medium hover:text-primary-600 transition-colors cursor-pointer&quot;>Destinasi</span>
+                <span class=&quot;font-medium hover:text-primary-600 transition-colors cursor-pointer&quot;>Akomodasi</span>
+                <span class=&quot;font-medium hover:text-primary-600 transition-colors cursor-pointer&quot;>Tips &amp;amp; Artikel</span>
+                <span class=&quot;font-medium hover:text-primary-600 transition-colors cursor-pointer&quot;>Tentang Kami</span>
+            </div>
+            
+            <div class=&quot;flex items-center gap-4&quot;>
+                <div class=&quot;relative hidden md:block&quot;>
+                    <input type=&quot;text&quot; placeholder=&quot;Cari destinasi...&quot; class=&quot;pl-10 pr-4 py-2 rounded-full border border-gray-200 focus:outline-none focus:ring-2 focus:ring-primary-500 w-64&quot; />
+                    <div class=&quot;absolute left-3 top-1/2 transform -translate-y-1/2&quot;>
+                        <i class=&quot;fa-solid fa-search text-gray-400&quot;></i>
+                    </div>
+                </div>
+                
+                <span class=&quot;bg-primary-600 text-white px-4 py-2 rounded-full font-medium hover:bg-primary-700 transition-colors cursor-pointer&quot;>Masuk</span>
+                
+                <button class=&quot;md:hidden text-gray-700&quot;>
+                    <i class=&quot;fa-solid fa-bars text-xl&quot;></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id=&quot;hero&quot; class=&quot;relative h-[600px] overflow-hidden&quot;>
+        <div class=&quot;absolute inset-0 w-full h-full&quot;>
+            <img class=&quot;w-full h-full object-cover&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/9b83c85369-3d307fab5a817a0e3a3c.png&quot; alt=&quot;beautiful tropical beach with palm trees, turquoise water, mountains in background, scenic travel destination, high quality photography&quot; />
+            <div class=&quot;absolute inset-0 bg-gradient-to-r from-black/60 to-black/30&quot;></div>
+        </div>
+        
+        <div class=&quot;relative container mx-auto px-4 h-full flex flex-col justify-center&quot;>
+            <div class=&quot;max-w-2xl text-white&quot;>
+                <h1 class=&quot;text-4xl md:text-5xl font-bold mb-4&quot;>Temukan Petualangan Baru di Indonesia</h1>
+                <p class=&quot;text-lg md:text-xl mb-8&quot;>Jelajahi keindahan alam, budaya, dan kuliner dari berbagai destinasi wisata terbaik di seluruh Nusantara</p>
+                
+                <div class=&quot;bg-white p-4 rounded-xl shadow-lg&quot;>
+                    <div class=&quot;flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-3&quot;>
+                        <div class=&quot;flex-1&quot;>
+                            <div class=&quot;relative&quot;>
+                                <input type=&quot;text&quot; placeholder=&quot;Kemana kamu ingin pergi?&quot; class=&quot;w-full px-10 py-3 rounded-lg border-0 focus:ring-2 focus:ring-primary-500&quot; />
+                                <i class=&quot;fa-solid fa-location-dot absolute left-3 top-1/2 transform -translate-y-1/2 text-primary-500&quot;></i>
+                            </div>
+                        </div>
+                        <div class=&quot;flex-1&quot;>
+                            <div class=&quot;relative&quot;>
+                                <input type=&quot;text&quot; placeholder=&quot;Kapan kamu akan pergi?&quot; class=&quot;w-full px-10 py-3 rounded-lg border-0 focus:ring-2 focus:ring-primary-500&quot; />
+                                <i class=&quot;fa-regular fa-calendar absolute left-3 top-1/2 transform -translate-y-1/2 text-primary-500&quot;></i>
+                            </div>
+                        </div>
+                        <button class=&quot;bg-primary-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-primary-700 transition-colors&quot;>
+                            <i class=&quot;fa-solid fa-search mr-2&quot;></i>Cari
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Destinations -->
+    <section id=&quot;featured-destinations&quot; class=&quot;py-16 bg-white&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;flex justify-between items-center mb-8&quot;>
+                <div>
+                    <h2 class=&quot;text-3xl font-bold mb-2&quot;>Destinasi Unggulan</h2>
+                    <p class=&quot;text-gray-600&quot;>Temukan tempat-tempat populer yang wajib dikunjungi</p>
+                </div>
+                <span class=&quot;text-primary-600 font-medium flex items-center hover:text-primary-700 cursor-pointer&quot;>
+                    Lihat semua <i class=&quot;fa-solid fa-arrow-right ml-2&quot;></i>
+                </span>
+            </div>
+            
+            <div class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6&quot;>
+                <div id=&quot;destination-card-1&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/fb5955a5d3-d80f142061aea518758f.png&quot; alt=&quot;Bali rice terraces with traditional temple, lush green landscape, morning mist, beautiful tropical scenery&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Bali</h3>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400&quot;></i>
+                                <span class=&quot;ml-1&quot;>4.8</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Pulau Dewata, Indonesia</span>
+                        </div>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Keindahan pantai, budaya, dan alam yang memukau untuk liburan sempurna</p>
+                        <span class=&quot;inline-block text-primary-600 font-medium hover:text-primary-700 cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+                
+                <div id=&quot;destination-card-2&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/46200924e8-5905dee4c5deb172e01c.png&quot; alt=&quot;Borobudur temple at sunrise with misty mountains, colorful sky, ancient Buddhist temple in Java, Indonesia&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Yogyakarta</h3>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400&quot;></i>
+                                <span class=&quot;ml-1&quot;>4.7</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Jawa Tengah, Indonesia</span>
+                        </div>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Kota budaya dengan candi Borobudur dan Prambanan yang megah</p>
+                        <span class=&quot;inline-block text-primary-600 font-medium hover:text-primary-700 cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+                
+                <div id=&quot;destination-card-3&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/57e464341f-f6f1189e4ab4454c688b.png&quot; alt=&quot;Raja Ampat islands with crystal clear turquoise water, coral reefs visible from above, paradise island destination&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Raja Ampat</h3>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400&quot;></i>
+                                <span class=&quot;ml-1&quot;>4.9</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Papua Barat, Indonesia</span>
+                        </div>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Surga bawah laut dengan keanekaragaman hayati terkaya di dunia</p>
+                        <span class=&quot;inline-block text-primary-600 font-medium hover:text-primary-700 cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+                
+                <div id=&quot;destination-card-4&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/376a5a8211-840a729098d908294765.png&quot; alt=&quot;Bromo volcano at sunrise with sea of clouds, dramatic sky colors, epic landscape view&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Bromo</h3>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400&quot;></i>
+                                <span class=&quot;ml-1&quot;>4.8</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Jawa Timur, Indonesia</span>
+                        </div>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Gunung berapi aktif dengan pemandangan matahari terbit yang spektakuler</p>
+                        <span class=&quot;inline-block text-primary-600 font-medium hover:text-primary-700 cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Destinations Categories -->
+    <section id=&quot;destinations&quot; class=&quot;py-16 bg-gray-50&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;text-center mb-12&quot;>
+                <h2 class=&quot;text-3xl font-bold mb-3&quot;>Jelajahi Berdasarkan Kategori</h2>
+                <p class=&quot;text-gray-600 max-w-2xl mx-auto&quot;>Temukan destinasi wisata sesuai dengan minat dan preferensi perjalananmu</p>
+            </div>
+            
+            <div class=&quot;flex flex-wrap justify-center mb-8&quot;>
+                <button class=&quot;bg-primary-600 text-white m-1 px-6 py-2 rounded-full font-medium&quot;>Semua</button>
+                <button class=&quot;bg-white text-gray-700 m-1 px-6 py-2 rounded-full font-medium hover:bg-gray-100&quot;>Alam</button>
+                <button class=&quot;bg-white text-gray-700 m-1 px-6 py-2 rounded-full font-medium hover:bg-gray-100&quot;>Budaya</button>
+                <button class=&quot;bg-white text-gray-700 m-1 px-6 py-2 rounded-full font-medium hover:bg-gray-100&quot;>Petualangan</button>
+                <button class=&quot;bg-white text-gray-700 m-1 px-6 py-2 rounded-full font-medium hover:bg-gray-100&quot;>Keluarga</button>
+                <button class=&quot;bg-white text-gray-700 m-1 px-6 py-2 rounded-full font-medium hover:bg-gray-100&quot;>Kuliner</button>
+            </div>
+            
+            <div class=&quot;grid grid-cols-1 md:grid-cols-3 gap-6&quot;>
+                <div id=&quot;category-card-1&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all relative&quot;>
+                    <div class=&quot;h-72 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/fa119981a6-ee377addfda3f84f844f.png&quot; alt=&quot;Lake Toba with traditional Batak houses, green mountains, blue sky, beautiful landscape&quot; />
+                        <div class=&quot;absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent&quot;></div>
+                    </div>
+                    <div class=&quot;absolute bottom-0 left-0 w-full p-6 text-white&quot;>
+                        <div class=&quot;mb-2&quot;>
+                            <span class=&quot;bg-primary-500 text-xs font-medium px-2 py-1 rounded-full&quot;>Alam</span>
+                        </div>
+                        <h3 class=&quot;text-xl font-bold mb-1&quot;>Danau Toba</h3>
+                        <div class=&quot;flex items-center text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Sumatera Utara</span>
+                        </div>
+                        <div class=&quot;flex items-center justify-between&quot;>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400 mr-1&quot;></i>
+                                <span>4.7</span>
+                                <span class=&quot;mx-2 text-gray-300&quot;>•</span>
+                                <span>120 ulasan</span>
+                            </div>
+                            <span class=&quot;bg-white text-primary-600 px-3 py-1 rounded-full text-sm font-medium group-hover:bg-primary-50 transition-colors cursor-pointer&quot;>Detail</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id=&quot;category-card-2&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all relative&quot;>
+                    <div class=&quot;h-72 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/6461a71e02-08009a3972f0a44a0adc.png&quot; alt=&quot;Komodo dragon in natural habitat, Komodo Island, Indonesia, wildlife photography&quot; />
+                        <div class=&quot;absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent&quot;></div>
+                    </div>
+                    <div class=&quot;absolute bottom-0 left-0 w-full p-6 text-white&quot;>
+                        <div class=&quot;mb-2&quot;>
+                            <span class=&quot;bg-secondary-500 text-xs font-medium px-2 py-1 rounded-full&quot;>Petualangan</span>
+                        </div>
+                        <h3 class=&quot;text-xl font-bold mb-1&quot;>Pulau Komodo</h3>
+                        <div class=&quot;flex items-center text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Nusa Tenggara Timur</span>
+                        </div>
+                        <div class=&quot;flex items-center justify-between&quot;>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400 mr-1&quot;></i>
+                                <span>4.8</span>
+                                <span class=&quot;mx-2 text-gray-300&quot;>•</span>
+                                <span>98 ulasan</span>
+                            </div>
+                            <span class=&quot;bg-white text-primary-600 px-3 py-1 rounded-full text-sm font-medium group-hover:bg-primary-50 transition-colors cursor-pointer&quot;>Detail</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id=&quot;category-card-3&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all relative&quot;>
+                    <div class=&quot;h-72 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/3ba6870b78-0c86efefbd6003e5672f.png&quot; alt=&quot;Tana Toraja traditional houses and ceremony, cultural heritage, unique architecture, South Sulawesi&quot; />
+                        <div class=&quot;absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent&quot;></div>
+                    </div>
+                    <div class=&quot;absolute bottom-0 left-0 w-full p-6 text-white&quot;>
+                        <div class=&quot;mb-2&quot;>
+                            <span class=&quot;bg-yellow-500 text-xs font-medium px-2 py-1 rounded-full&quot;>Budaya</span>
+                        </div>
+                        <h3 class=&quot;text-xl font-bold mb-1&quot;>Tana Toraja</h3>
+                        <div class=&quot;flex items-center text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Sulawesi Selatan</span>
+                        </div>
+                        <div class=&quot;flex items-center justify-between&quot;>
+                            <div class=&quot;flex items-center&quot;>
+                                <i class=&quot;fa-solid fa-star text-yellow-400 mr-1&quot;></i>
+                                <span>4.6</span>
+                                <span class=&quot;mx-2 text-gray-300&quot;>•</span>
+                                <span>75 ulasan</span>
+                            </div>
+                            <span class=&quot;bg-white text-primary-600 px-3 py-1 rounded-full text-sm font-medium group-hover:bg-primary-50 transition-colors cursor-pointer&quot;>Detail</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class=&quot;text-center mt-10&quot;>
+                <span class=&quot;inline-block border border-primary-600 text-primary-600 px-6 py-3 rounded-full font-medium hover:bg-primary-50 transition-colors cursor-pointer&quot;>
+                    Lihat Lebih Banyak Destinasi
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Accommodations Section -->
+    <section id=&quot;accommodations&quot; class=&quot;py-16 bg-white&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;text-center mb-12&quot;>
+                <h2 class=&quot;text-3xl font-bold mb-3&quot;>Akomodasi &amp;amp; Transportasi</h2>
+                <p class=&quot;text-gray-600 max-w-2xl mx-auto&quot;>Temukan berbagai pilihan akomodasi dan transportasi untuk perjalanan nyaman</p>
+            </div>
+            
+            <div class=&quot;mb-8 border-b&quot;>
+                <div class=&quot;flex flex-wrap -mb-px&quot;>
+                    <button class=&quot;mr-2 inline-block py-4 px-4 text-primary-600 border-b-2 border-primary-600 font-medium&quot;>
+                        <i class=&quot;fa-solid fa-hotel mr-2&quot;></i>Penginapan
+                    </button>
+                    <button class=&quot;mr-2 inline-block py-4 px-4 text-gray-500 hover:text-gray-700 font-medium&quot;>
+                        <i class=&quot;fa-solid fa-car mr-2&quot;></i>Kendaraan Sewa
+                    </button>
+                    <button class=&quot;mr-2 inline-block py-4 px-4 text-gray-500 hover:text-gray-700 font-medium&quot;>
+                        <i class=&quot;fa-solid fa-campground mr-2&quot;></i>Sewa Tenda
+                    </button>
+                </div>
+            </div>
+            
+            <div class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6&quot;>
+                <div id=&quot;accommodation-card-1&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;relative h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/1325418b25-aec9b4ee9b4fa7ffddd7.png&quot; alt=&quot;luxury villa in Bali with private pool, tropical garden, modern architecture, elegant interior&quot; />
+                        <div class=&quot;absolute top-3 right-3 bg-white rounded-full px-3 py-1 text-sm font-medium text-primary-600&quot;>
+                            <i class=&quot;fa-solid fa-star text-yellow-400 mr-1&quot;></i>4.9
+                        </div>
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Bali Luxury Villa</h3>
+                            <div class=&quot;text-primary-600 font-bold&quot;>
+                                Rp2.500.000<span class=&quot;text-sm font-normal text-gray-600&quot;>/malam</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Ubud, Bali</span>
+                        </div>
+                        <div class=&quot;flex flex-wrap gap-2 mb-4&quot;>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>3 Kamar Tidur</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>Kolam Renang</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>WiFi</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>Sarapan</span>
+                        </div>
+                        <span class=&quot;block text-center bg-primary-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+                
+                <div id=&quot;accommodation-card-2&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;relative h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/5ae484548e-094f0cf98fd0bb1a216b.png&quot; alt=&quot;cozy boutique hotel in Yogyakarta, traditional Javanese decor, comfortable rooms, garden view&quot; />
+                        <div class=&quot;absolute top-3 right-3 bg-white rounded-full px-3 py-1 text-sm font-medium text-primary-600&quot;>
+                            <i class=&quot;fa-solid fa-star text-yellow-400 mr-1&quot;></i>4.7
+                        </div>
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Jogja Heritage Hotel</h3>
+                            <div class=&quot;text-primary-600 font-bold&quot;>
+                                Rp850.000<span class=&quot;text-sm font-normal text-gray-600&quot;>/malam</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Malioboro, Yogyakarta</span>
+                        </div>
+                        <div class=&quot;flex flex-wrap gap-2 mb-4&quot;>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>2 Kamar Tidur</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>Restaurant</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>WiFi</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>AC</span>
+                        </div>
+                        <span class=&quot;block text-center bg-primary-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+                
+                <div id=&quot;accommodation-card-3&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all&quot;>
+                    <div class=&quot;relative h-56 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/0570ca6c10-ee3cef9c311cebb732d0.png&quot; alt=&quot;eco-friendly beachfront resort in Raja Ampat, overwater bungalows, pristine ocean view, sustainable luxury&quot; />
+                        <div class=&quot;absolute top-3 right-3 bg-white rounded-full px-3 py-1 text-sm font-medium text-primary-600&quot;>
+                            <i class=&quot;fa-solid fa-star text-yellow-400 mr-1&quot;></i>4.8
+                        </div>
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center justify-between mb-2&quot;>
+                            <h3 class=&quot;font-semibold text-lg&quot;>Raja Ampat Eco Resort</h3>
+                            <div class=&quot;text-primary-600 font-bold&quot;>
+                                Rp3.200.000<span class=&quot;text-sm font-normal text-gray-600&quot;>/malam</span>
+                            </div>
+                        </div>
+                        <div class=&quot;flex items-center text-gray-600 text-sm mb-3&quot;>
+                            <i class=&quot;fa-solid fa-location-dot mr-1&quot;></i>
+                            <span>Pulau Misool, Raja Ampat</span>
+                        </div>
+                        <div class=&quot;flex flex-wrap gap-2 mb-4&quot;>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>Bungalow</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>Diving</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>All Meals</span>
+                            <span class=&quot;bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full&quot;>Eco-friendly</span>
+                        </div>
+                        <span class=&quot;block text-center bg-primary-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors cursor-pointer&quot;>Lihat Detail</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class=&quot;text-center mt-10&quot;>
+                <span class=&quot;inline-block border border-primary-600 text-primary-600 px-6 py-3 rounded-full font-medium hover:bg-primary-50 transition-colors cursor-pointer&quot;>
+                    Lihat Semua Akomodasi
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Special Offers -->
+    <section id=&quot;special-offers&quot; class=&quot;py-16 bg-gradient-to-r from-primary-600 to-secondary-600 text-white&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;text-center mb-12&quot;>
+                <h2 class=&quot;text-3xl font-bold mb-3&quot;>Penawaran Spesial</h2>
+                <p class=&quot;max-w-2xl mx-auto opacity-90&quot;>Dapatkan diskon menarik dan penawaran terbaik untuk liburan impianmu</p>
+            </div>
+            
+            <div class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8&quot;>
+                <div id=&quot;offer-card-1&quot; class=&quot;bg-white rounded-xl overflow-hidden shadow-lg group&quot;>
+                    <div class=&quot;flex flex-col md:flex-row&quot;>
+                        <div class=&quot;md:w-2/5 h-48 md:h-full overflow-hidden&quot;>
+                            <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/e7358e90c0-8d9b528f4ffff607df6d.png&quot; alt=&quot;family vacation package, beach resort, parents with children playing, happy family vacation&quot; />
+                        </div>
+                        <div class=&quot;p-6 md:w-3/5 text-gray-800&quot;>
+                            <div class=&quot;bg-red-100 text-red-600 text-xs font-bold px-3 py-1 rounded-full inline-block mb-3&quot;>HEMAT 25%</div>
+                            <h3 class=&quot;text-xl font-bold mb-2&quot;>Paket Liburan Keluarga</h3>
+                            <p class=&quot;text-gray-600 text-sm mb-4&quot;>Nikmati liburan keluarga dengan akomodasi, transportasi, dan aktivitas yang sudah termasuk dalam satu paket.</p>
+                            <div class=&quot;flex items-center text-primary-600 font-bold mb-4&quot;>
+                                <span class=&quot;text-2xl&quot;>Rp8.500.000</span>
+                                <span class=&quot;ml-2 text-gray-400 line-through text-sm&quot;>Rp11.300.000</span>
+                            </div>
+                            <span class=&quot;inline-block bg-primary-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors cursor-pointer&quot;>Pesan Sekarang</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id=&quot;offer-card-2&quot; class=&quot;bg-white rounded-xl overflow-hidden shadow-lg group&quot;>
+                    <div class=&quot;flex flex-col md:flex-row&quot;>
+                        <div class=&quot;md:w-2/5 h-48 md:h-full overflow-hidden&quot;>
+                            <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/49a2d2c4ef-61a6527bd5fc8e86c99a.png&quot; alt=&quot;honeymoon couple on private beach, luxury overwater villa, romantic sunset, tropical paradise&quot; />
+                        </div>
+                        <div class=&quot;p-6 md:w-3/5 text-gray-800&quot;>
+                            <div class=&quot;bg-red-100 text-red-600 text-xs font-bold px-3 py-1 rounded-full inline-block mb-3&quot;>HEMAT 30%</div>
+                            <h3 class=&quot;text-xl font-bold mb-2&quot;>Paket Bulan Madu</h3>
+                            <p class=&quot;text-gray-600 text-sm mb-4&quot;>Rayakan momen spesial bersama pasangan dengan pengalaman romantis di destinasi eksotis.</p>
+                            <div class=&quot;flex items-center text-primary-600 font-bold mb-4&quot;>
+                                <span class=&quot;text-2xl&quot;>Rp12.600.000</span>
+                                <span class=&quot;ml-2 text-gray-400 line-through text-sm&quot;>Rp18.000.000</span>
+                            </div>
+                            <span class=&quot;inline-block bg-primary-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors cursor-pointer&quot;>Pesan Sekarang</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Tips &amp; Articles -->
+    <section id=&quot;tips&quot; class=&quot;py-16 bg-gray-50&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;flex justify-between items-center mb-8&quot;>
+                <div>
+                    <h2 class=&quot;text-3xl font-bold mb-2&quot;>Tips &amp;amp; Artikel Wisata</h2>
+                    <p class=&quot;text-gray-600&quot;>Temukan inspirasi dan informasi untuk perjalananmu</p>
+                </div>
+                <span class=&quot;text-primary-600 font-medium flex items-center hover:text-primary-700 cursor-pointer&quot;>
+                    Lihat semua artikel <i class=&quot;fa-solid fa-arrow-right ml-2&quot;></i>
+                </span>
+            </div>
+            
+            <div class=&quot;grid grid-cols-1 md:grid-cols-3 gap-6&quot;>
+                <div id=&quot;article-card-1&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all bg-white&quot;>
+                    <div class=&quot;h-48 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/379735e8d9-348caa0b82fc05c45ff6.png&quot; alt=&quot;person taking photos of beautiful landscape, professional travel photography tips, camera equipment&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center text-sm text-gray-500 mb-3&quot;>
+                            <i class=&quot;fa-regular fa-calendar mr-1&quot;></i>
+                            <span>20 Mei 2023</span>
+                            <span class=&quot;mx-2&quot;>•</span>
+                            <span>Tips Perjalanan</span>
+                        </div>
+                        <h3 class=&quot;font-semibold text-lg mb-2 group-hover:text-primary-600 transition-colors&quot;>10 Tips Fotografi untuk Dokumentasi Perjalanan yang Memukau</h3>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Pelajari cara mengambil foto perjalanan yang menakjubkan dengan peralatan apapun yang kamu miliki.</p>
+                        <div class=&quot;flex items-center&quot;>
+                            <img src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg&quot; alt=&quot;Author&quot; class=&quot;w-8 h-8 rounded-full mr-2&quot; />
+                            <span class=&quot;text-sm text-gray-700&quot;>Budi Santoso</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id=&quot;article-card-2&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all bg-white&quot;>
+                    <div class=&quot;h-48 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/ae31ce3ba6-46fcf8c074016504780b.png&quot; alt=&quot;backpacker organizing travel essentials, packing efficiently, backpack with travel items laid out&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center text-sm text-gray-500 mb-3&quot;>
+                            <i class=&quot;fa-regular fa-calendar mr-1&quot;></i>
+                            <span>15 Mei 2023</span>
+                            <span class=&quot;mx-2&quot;>•</span>
+                            <span>Panduan</span>
+                        </div>
+                        <h3 class=&quot;font-semibold text-lg mb-2 group-hover:text-primary-600 transition-colors&quot;>Panduan Lengkap Packing untuk Backpacker Pemula</h3>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Bagaimana cara packing efisien dengan membawa barang seperlunya namun tetap memenuhi kebutuhan perjalanan.</p>
+                        <div class=&quot;flex items-center&quot;>
+                            <img src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-5.jpg&quot; alt=&quot;Author&quot; class=&quot;w-8 h-8 rounded-full mr-2&quot; />
+                            <span class=&quot;text-sm text-gray-700&quot;>Dewi Lestari</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id=&quot;article-card-3&quot; class=&quot;group rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all bg-white&quot;>
+                    <div class=&quot;h-48 overflow-hidden&quot;>
+                        <img class=&quot;w-full h-full object-cover group-hover:scale-105 transition-transform duration-500&quot; src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/59be23693d-ce80749a218be82a04f8.png&quot; alt=&quot;person enjoying local food at street market, authentic culinary experience, traditional Indonesian cuisine&quot; />
+                    </div>
+                    <div class=&quot;p-4&quot;>
+                        <div class=&quot;flex items-center text-sm text-gray-500 mb-3&quot;>
+                            <i class=&quot;fa-regular fa-calendar mr-1&quot;></i>
+                            <span>10 Mei 2023</span>
+                            <span class=&quot;mx-2&quot;>•</span>
+                            <span>Kuliner</span>
+                        </div>
+                        <h3 class=&quot;font-semibold text-lg mb-2 group-hover:text-primary-600 transition-colors&quot;>7 Kuliner Khas Indonesia yang Wajib Dicoba Saat Traveling</h3>
+                        <p class=&quot;text-sm text-gray-600 mb-4&quot;>Temukan kelezatan kuliner nusantara yang bisa memperkaya pengalaman perjalananmu di Indonesia.</p>
+                        <div class=&quot;flex items-center&quot;>
+                            <img src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-3.jpg&quot; alt=&quot;Author&quot; class=&quot;w-8 h-8 rounded-full mr-2&quot; />
+                            <span class=&quot;text-sm text-gray-700&quot;>Andi Wijaya</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section id=&quot;testimonials&quot; class=&quot;py-16 bg-white&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;text-center mb-12&quot;>
+                <h2 class=&quot;text-3xl font-bold mb-3&quot;>Apa Kata Mereka</h2>
+                <p class=&quot;text-gray-600 max-w-2xl mx-auto&quot;>Pengalaman dari para traveler yang telah menggunakan layanan kami</p>
+            </div>
+            
+            <div class=&quot;grid grid-cols-1 md:grid-cols-3 gap-6&quot;>
+                <div id=&quot;testimonial-1&quot; class=&quot;bg-gray-50 p-6 rounded-xl shadow-sm&quot;>
+                    <div class=&quot;flex items-center mb-4&quot;>
+                        <img src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg&quot; alt=&quot;User&quot; class=&quot;w-12 h-12 rounded-full mr-4&quot; />
+                        <div>
+                            <h4 class=&quot;font-medium&quot;>Siti Nurhaliza</h4>
+                            <div class=&quot;flex text-yellow-400 mt-1&quot;>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                            </div>
+                        </div>
+                    </div>
+                    <p class=&quot;text-gray-600&quot;>&quot;Berkat rekomendasi dari TravelGuide, liburan saya ke Bali menjadi sangat berkesan. Semua informasi tentang destinasi, akomodasi, dan tips perjalanan sangat akurat dan membantu!&quot;</p>
+                </div>
+                
+                <div id=&quot;testimonial-2&quot; class=&quot;bg-gray-50 p-6 rounded-xl shadow-sm&quot;>
+                    <div class=&quot;flex items-center mb-4&quot;>
+                        <img src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-4.jpg&quot; alt=&quot;User&quot; class=&quot;w-12 h-12 rounded-full mr-4&quot; />
+                        <div>
+                            <h4 class=&quot;font-medium&quot;>Reza Rahadian</h4>
+                            <div class=&quot;flex text-yellow-400 mt-1&quot;>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star-half-alt&quot;></i>
+                            </div>
+                        </div>
+                    </div>
+                    <p class=&quot;text-gray-600&quot;>&quot;Saya menemukan spot tersembunyi di Raja Ampat berkat artikel di TravelGuide. Pemesanan akomodasi dan transportasi juga sangat mudah. Pasti akan menggunakan layanan ini lagi!&quot;</p>
+                </div>
+                
+                <div id=&quot;testimonial-3&quot; class=&quot;bg-gray-50 p-6 rounded-xl shadow-sm&quot;>
+                    <div class=&quot;flex items-center mb-4&quot;>
+                        <img src=&quot;https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-6.jpg&quot; alt=&quot;User&quot; class=&quot;w-12 h-12 rounded-full mr-4&quot; />
+                        <div>
+                            <h4 class=&quot;font-medium&quot;>Tania Gunawan</h4>
+                            <div class=&quot;flex text-yellow-400 mt-1&quot;>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                                <i class=&quot;fa-solid fa-star&quot;></i>
+                            </div>
+                        </div>
+                    </div>
+                    <p class=&quot;text-gray-600&quot;>&quot;Sebagai solo traveler, TravelGuide sangat membantu dalam merencanakan perjalanan saya. Tips keamanan dan rekomendasi tempat yang ramah untuk solo traveler sangat bermanfaat.&quot;</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter -->
+    <section id=&quot;newsletter&quot; class=&quot;py-16 bg-gray-900 text-white&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;max-w-3xl mx-auto text-center&quot;>
+                <h2 class=&quot;text-3xl font-bold mb-3&quot;>Dapatkan Inspirasi Perjalanan</h2>
+                <p class=&quot;text-gray-300 mb-8&quot;>Bergabunglah dengan newsletter kami untuk mendapatkan tips perjalanan, penawaran eksklusif, dan inspirasi destinasi terbaru</p>
+                
+                <div class=&quot;flex flex-col md:flex-row gap-4&quot;>
+                    <input type=&quot;email&quot; placeholder=&quot;Alamat email kamu&quot; class=&quot;flex-1 px-4 py-3 rounded-lg text-gray-800 focus:outline-none focus:ring-2 focus:ring-primary-500&quot; />
+                    <button class=&quot;bg-primary-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-primary-700 transition-colors&quot;>
+                        Berlangganan
+                    </button>
+                </div>
+                <p class=&quot;text-gray-400 text-sm mt-4&quot;>Kami tidak akan pernah membagikan email kamu dengan pihak lain. Lihat <span class=&quot;underline cursor-pointer&quot;>kebijakan privasi</span> kami.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id=&quot;footer&quot; class=&quot;bg-gray-800 text-white pt-16 pb-8&quot;>
+        <div class=&quot;container mx-auto px-4&quot;>
+            <div class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12&quot;>
+                <div class=&quot;lg:col-span-2&quot;>
+                    <div class=&quot;flex items-center mb-4&quot;>
+                        <div class=&quot;bg-gradient-to-r from-primary-600 to-secondary-600 rounded-full p-2 mr-2&quot;>
+                            <i class=&quot;fa-solid fa-compass text-white text-xl&quot;></i>
+                        </div>
+                        <span class=&quot;text-white font-bold text-xl&quot;>TravelGuide</span>
+                    </div>
+                    <p class=&quot;text-gray-400 mb-6&quot;>Platform rekomendasi wisata terkemuka di Indonesia yang menyediakan informasi lengkap tentang destinasi, akomodasi, dan tips perjalanan untuk membantu Anda merencanakan liburan terbaik.</p>
+                    <div class=&quot;flex space-x-4&quot;>
+                        <span class=&quot;bg-gray-700 w-10 h-10 rounded-full flex items-center justify-center hover:bg-primary-600 transition-colors cursor-pointer&quot;>
+                            <i class=&quot;fa-brands fa-facebook-f&quot;></i>
+                        </span>
+                        <span class=&quot;bg-gray-700 w-10 h-10 rounded-full flex items-center justify-center hover:bg-primary-600 transition-colors cursor-pointer&quot;>
+                            <i class=&quot;fa-brands fa-twitter&quot;></i>
+                        </span>
+                        <span class=&quot;bg-gray-700 w-10 h-10 rounded-full flex items-center justify-center hover:bg-primary-600 transition-colors cursor-pointer&quot;>
+                            <i class=&quot;fa-brands fa-instagram&quot;></i>
+                        </span>
+                        <span class=&quot;bg-gray-700 w-10 h-10 rounded-full flex items-center justify-center hover:bg-primary-600 transition-colors cursor-pointer&quot;>
+                            <i class=&quot;fa-brands fa-youtube&quot;></i>
+                        </span>
+                    </div>
+                </div>
+                
+                <div>
+                    <h3 class=&quot;text-lg font-semibold mb-4&quot;>Destinasi Populer</h3>
+                    <ul class=&quot;space-y-3&quot;>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Bali</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Raja Ampat</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Yogyakarta</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Labuan Bajo</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Danau Toba</span></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class=&quot;text-lg font-semibold mb-4&quot;>Kategori</h3>
+                    <ul class=&quot;space-y-3&quot;>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Wisata Alam</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Wisata Budaya</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Wisata Petualangan</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Wisata Kuliner</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Wisata Keluarga</span></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class=&quot;text-lg font-semibold mb-4&quot;>Tautan</h3>
+                    <ul class=&quot;space-y-3&quot;>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Tentang Kami</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Kontak</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Karir</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Kebijakan Privasi</span></li>
+                        <li><span class=&quot;text-gray-400 hover:text-white transition-colors cursor-pointer&quot;>Syarat &amp;amp; Ketentuan</span></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class=&quot;border-t border-gray-700 pt-8&quot;>
+                <div class=&quot;flex flex-col md:flex-row justify-between items-center&quot;>
+                    <p class=&quot;text-gray-400 text-sm mb-4 md:mb-0&quot;>© 2023 TravelGuide. All rights reserved.</p>
+                    <div class=&quot;flex space-x-4&quot;>
+                        <span class=&quot;text-gray-400 hover:text-white transition-colors text-sm cursor-pointer&quot;>Kebijakan Privasi</span>
+                        <span class=&quot;text-gray-400 hover:text-white transition-colors text-sm cursor-pointer&quot;>Syarat &amp;amp; Ketentuan</span>
+                        <span class=&quot;text-gray-400 hover:text-white transition-colors text-sm cursor-pointer&quot;>Peta Situs</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button id=&quot;back-to-top&quot; class=&quot;fixed bottom-6 right-6 bg-primary-600 text-white w-12 h-12 rounded-full flex items-center justify-center shadow-lg hover:bg-primary-700 transition-colors&quot;>
+        <i class=&quot;fa-solid fa-arrow-up&quot;></i>
+    </button>
+
+    <script>
+        // Back to top button functionality
+        const backToTopButton = document.getElementById('back-to-top');
+        
+        window.addEventListener('scroll', () =&amp;gt; {
+            if (window.pageYOffset &amp;gt; 300) {
+                backToTopButton.classList.remove('hidden');
+                backToTopButton.classList.add('flex');
+            } else {
+                backToTopButton.classList.remove('flex');
+                backToTopButton.classList.add('hidden');
+            }
+        });
+        
+        backToTopButton.addEventListener('click', () =&amp;gt; {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+
+</body></html>" frameborder="0" class="w-full h-full" style="width: 100%; height: 5292px; min-height: 100vh;"></iframe></div></div></main></div><a href="#" hidden="">Show Cookie Preferences</a><!--/$--><script type="text/javascript" crossorigin="anonymous" src="https://us-assets.i.posthog.com/array/phc_TE3FyEbshAgJokNVQQVdWQomWe3c4g09Le9tKmD7tKI/config.js"></script><script src="/_next/static/chunks/webpack-d838859af2d0b8b1.js" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\"/_next/static/media/a34f9d1faa5f3315-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n2:HL[\"/_next/static/css/8d4c984f5a6bb47c.css\",\"style\"]\n3:HL[\"/_next/static/css/2326e1988d72ed3f.css\",\"style\"]\n0:\"$L4\"\n"])</script><script>self.__next_f.push([1,"5:I[33728,[],\"\"]\n7:I[29928,[],\"\"]\n"])</script><script>self.__next_f.push([1,"8:I[91923,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"a:I[73994,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"b:I[57809,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"6691\",\"static/chunks/6691-fa0dda0097f10503.js\",\"8326\",\"static/chunks/8326-e5f01e9a00bbd03d.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"9929\",\"static/chunks/9929-2959897ab7efa9b5.js\",\"9996\",\"static/chunks/9996-f87b475f2494fae6.js\",\"3304\",\"static/chunks/3304-a9a0b0f0da9b849d.js\",\"4232\",\"static/chunks/4232-9224ca820bd9fbbc.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"53\",\"static/chunks/53-edc52b2ae9a5c7ac.js\",\"6143\",\"static/chunks/6143-7674ddc083da44a0.js\",\"9605\",\"static/chunks/9605-42df32224a6a94ec.js\",\"2366\",\"static/chunks/2366-075377493397c3a8.js\",\"3486\",\"static/chunks/3486-9c75c03c9a7fdf41.js\",\"3184\",\"static/chunks/3184-a24276f58880c718.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"1931\",\"static/chunks/app/page-265c220f7234a312.js\"],\"GlobalErrorBoundary\"]\n"])</script><script>self.__next_f.push([1,"c:I[13716,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"PostHogProvider\"]\n"])</script><script>self.__next_f.push([1,"d:I[14036,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"e:I[25414,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"ModalProvider\"]\n"])</script><script>self.__next_f.push([1,"f:I[30698,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"ChangePlanModalProvider\"]\n"])</script><script>self.__next_f.push([1,"10:I[27341,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"11:I[39190,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"12:I[87415,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"ToastContainer\"]\n"])</script><script>self.__next_f.push([1,"13:I[56954,[],\"\"]\n14:I[7264,[],\"\"]\n"])</script><script>self.__next_f.push([1,"15:I[68326,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"6691\",\"static/chunks/6691-fa0dda0097f10503.js\",\"8326\",\"static/chunks/8326-e5f01e9a00bbd03d.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"9929\",\"static/chunks/9929-2959897ab7efa9b5.js\",\"9996\",\"static/chunks/9996-f87b475f2494fae6.js\",\"3304\",\"static/chunks/3304-a9a0b0f0da9b849d.js\",\"4232\",\"static/chunks/4232-9224ca820bd9fbbc.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"53\",\"static/chunks/53-edc52b2ae9a5c7ac.js\",\"6143\",\"static/chunks/6143-7674ddc083da44a0.js\",\"9605\",\"static/chunks/9605-42df32224a6a94ec.js\",\"2366\",\"static/chunks/2366-075377493397c3a8.js\",\"3486\",\"static/chunks/3486-9c75c03c9a7fdf41.js\",\"3184\",\"static/chunks/3184-a24276f58880c718.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"1931\",\"static/chunks/app/page-265c220f7234a312.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"16:I[63126,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"8326\",\"static/chunks/8326-e5f01e9a00bbd03d.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"8377\",\"static/chunks/8377-f3da839525cc5138.js\",\"9452\",\"static/chunks/9452-390de722d37163be.js\",\"9554\",\"static/chunks/9554-dfcc96ceda208e48.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"1208\",\"static/chunks/1208-057bec9fde14642f.js\",\"5307\",\"static/chunks/app/p/%5Bpreview%5D/layout-e2c1e7d943b37fad.js\"],\"PreviewProvider\"]\n"])</script><script>self.__next_f.push([1,"17:I[52821,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"8326\",\"static/chunks/8326-e5f01e9a00bbd03d.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"8377\",\"static/chunks/8377-f3da839525cc5138.js\",\"9452\",\"static/chunks/9452-390de722d37163be.js\",\"9554\",\"static/chunks/9554-dfcc96ceda208e48.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"1208\",\"static/chunks/1208-057bec9fde14642f.js\",\"5307\",\"static/chunks/app/p/%5Bpreview%5D/layout-e2c1e7d943b37fad.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"19:I[48297,[],\"\"]\n"])</script><script>self.__next_f.push([1,"1a:I[95979,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"9125\",\"static/chunks/7cfff7d9-f63044538a444340.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"7074\",\"static/chunks/7074-3b0de4b504fff7f6.js\",\"825\",\"static/chunks/825-0053e5961921fdb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"1208\",\"static/chunks/1208-057bec9fde14642f.js\",\"9306\",\"static/chunks/9306-081dedd49668a52b.js\",\"5767\",\"static/chunks/app/p/%5Bpreview%5D/page-e1140a90c287e4cc.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"1b:I[79912,[\"4358\",\"static/chunks/bc9e92e6-fea4cc479744e9e0.js\",\"4038\",\"static/chunks/8084c5f1-e864c89bf612e00e.js\",\"5878\",\"static/chunks/9da6db1e-7dbf354dab8d2e23.js\",\"491\",\"static/chunks/491-5890810b0d956073.js\",\"3985\",\"static/chunks/3985-290e0b84a6708602.js\",\"8953\",\"static/chunks/8953-d099eb2363fdd7f2.js\",\"5042\",\"static/chunks/5042-7e662ebb46905d22.js\",\"4599\",\"static/chunks/4599-0e1c4df66acd9192.js\",\"6542\",\"static/chunks/6542-3dde77f10256ecb9.js\",\"4109\",\"static/chunks/4109-4cde00c8718cc2ad.js\",\"4632\",\"static/chunks/4632-d62bca3422f1cab5.js\",\"7268\",\"static/chunks/7268-43d8a7a92be5a644.js\",\"8154\",\"static/chunks/8154-45ca0321b1553065.js\",\"1190\",\"static/chunks/1190-8bb231f42f84beb1.js\",\"7809\",\"static/chunks/7809-d2e6af82653053d8.js\",\"3185\",\"static/chunks/app/layout-2dfdecfeb9679e20.js\"],\"\"]\n"])</script><script>self.__next_f.push([1,"9:Ted7,"])</script><script>self.__next_f.push([1,"window._vwo_code||(function(){var account_id=1060647,version=2.1,settings_tolerance=2000,hide_element='body',hide_element_style='opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c\u0026\u0026typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v\u0026\u0026v.nonce,use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v\u0026\u0026t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){w._vwo_code.addScript({text:o.responseText})}else{w._vwo_code.finish('\u0026e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}w._vwo_code.finish('\u0026e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()\u003ee.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')\u003e-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){w._vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v\u0026\u0026t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index:2147483647!important;position:fixed!important;left:0!important;top:0!important;width:100%!important;height:100%!important;background:white!important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'\u0026u='+encodeURIComponent(o)+'\u0026vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'\u0026x=true')}}};w._vwo_code=code;code.init()})();(function(){var i=window;function t(){if(i._vwo_code){var e=t.hidingStyle=document.getElementById('_vis_opt_path_hides')||t.hidingStyle;if(!i._vwo_code.finished()\u0026\u0026!_vwo_code.libExecuted\u0026\u0026(!i.VWO||!VWO.dNR)){if(!document.getElementById('_vis_opt_path_hides')){document.getElementsByTagName('head')[0].appendChild(e)}requestAnimationFrame(t)}}}t()});"])</script><script>self.__next_f.push([1,"4:[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/8d4c984f5a6bb47c.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/2326e1988d72ed3f.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],[\"$\",\"$L5\",null,{\"buildId\":\"KYfa1nteclrdmwmnfjK5E\",\"assetPrefix\":\"\",\"initialCanonicalUrl\":\"/p/gqEEbqdVPYSs9EuKMbOK?wireframeId=PtL774JuMVMsV8APastE\u0026fullscreen=true\",\"initialTree\":[\"\",{\"children\":[\"p\",{\"children\":[[\"preview\",\"gqEEbqdVPYSs9EuKMbOK\",\"d\"],{\"children\":[\"__PAGE__?{\\\"wireframeId\\\":\\\"PtL774JuMVMsV8APastE\\\",\\\"fullscreen\\\":\\\"true\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],\"initialHead\":[false,\"$L6\"],\"globalErrorComponent\":\"$7\",\"children\":[null,[\"$\",\"html\",null,{\"suppressHydrationWarning\":true,\"lang\":\"en\",\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",null,{\"charSet\":\"utf-8\"}],[\"$\",\"link\",null,{\"rel\":\"icon\",\"href\":\"/favicon.ico\"}],[\"$\",\"meta\",null,{\"name\":\"theme-color\",\"content\":\"#000000\"}],[\"$\",\"link\",null,{\"href\":\"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700\u0026display=swap\",\"rel\":\"stylesheet\"}],[\"$\",\"link\",null,{\"href\":\"https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700\u0026display=swap\",\"rel\":\"stylesheet\"}],[\"$\",\"$L8\",null,{}],[\"$\",\"link\",null,{\"rel\":\"apple-touch-icon\",\"href\":\"/logo192.png\"}],[\"$\",\"link\",null,{\"rel\":\"manifest\",\"href\":\"/manifest.json\"}],[[\"$\",\"link\",null,{\"rel\":\"preconnect\",\"href\":\"https://dev.visualwebsiteoptimizer.com\"}],[\"$\",\"script\",null,{\"type\":\"text/javascript\",\"id\":\"vwoCode\",\"dangerouslySetInnerHTML\":{\"__html\":\"$9\"}}]],[[\"$\",\"$La\",null,{\"id\":\"gtm-tag\",\"strategy\":\"afterInteractive\",\"dangerouslySetInnerHTML\":{\"__html\":\"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\\n      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\\n      j=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\\n      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\\n      })(window,document,'script','dataLayer','GTM-TFMPJG7S');\"}}],[\"$\",\"$La\",null,{\"id\":\"gtag-config\",\"strategy\":\"afterInteractive\",\"src\":\"https://www.googletagmanager.com/gtag/js?id=G-9L2Y115NQ3\"}],[\"$\",\"$La\",null,{\"id\":\"gtag-init\",\"strategy\":\"afterInteractive\",\"dangerouslySetInnerHTML\":{\"__html\":\"\\n                  window.dataLayer = window.dataLayer || [];\\n                  function gtag(){dataLayer.push(arguments);}\\n                  gtag('js', new Date());\\n                  gtag('config', 'G-9L2Y115NQ3');\\n                \"}}]],[\"$\",\"$La\",null,{\"src\":\"https://cdn.tolt.io/tolt.js\",\"data-tolt\":\"4f3afc26-81a7-430d-84a9-533c1104cb53\",\"strategy\":\"afterInteractive\"}],[\"$\",\"noscript\",null,{\"children\":[\"$\",\"iframe\",null,{\"title\":\"gtm\",\"src\":\"https://www.googletagmanager.com/ns.html?id=GTM-TFMPJG7S\",\"height\":\"0\",\"width\":\"0\",\"style\":{\"display\":\"none\",\"visibility\":\"hidden\"}}]}],[\"$\",\"noscript\",null,{\"children\":\"UX Pilot\"}],[\"$\",\"$La\",null,{\"src\":\"https://js.stripe.com/v3/\",\"strategy\":\"afterInteractive\"}]]}],[\"$\",\"body\",null,{\"className\":\"__className_d65c78\",\"children\":[\"$\",\"$Lb\",null,{\"children\":[\"$\",\"$Lc\",null,{\"children\":[\"$\",\"$Ld\",null,{\"children\":[\"$\",\"$Le\",null,{\"children\":[\"$\",\"$Lf\",null,{\"children\":[[\"$\",\"$L10\",null,{}],[\"$\",\"$L11\",null,{}],[\"$\",\"$L12\",null,{}],[\"$\",\"$L13\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"template\":[\"$\",\"$L14\",null,{}],\"templateStyles\":\"$undefined\",\"notFound\":[\"$\",\"div\",null,{\"className\":\"h-screen flex flex-col items-center justify-center bg-[#fbfbff]\",\"children\":[\"$\",\"div\",null,{\"className\":\"text-center\",\"children\":[[\"$\",\"div\",null,{\"className\":\"mt-4\",\"children\":[\"$\",\"h3\",null,{\"className\":\"text-xl font-medium text-[#666]\",\"children\":\"Whoops! Looks like this page took an unexpected vacation 🏖️\"}]}],[\"$\",\"$L15\",null,{\"href\":\"/\",\"className\":\"mt-6 inline-block px-6 py-3 rounded-full bg-amethyst-700 text-white hover:bg-amethyst-800 transition-colors\",\"children\":\"Return Home\"}]]}]}],\"notFoundStyles\":[],\"childProp\":{\"current\":[\"$\",\"$L13\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"p\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"template\":[\"$\",\"$L14\",null,{}],\"templateStyles\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"childProp\":{\"current\":[null,[\"$\",\"$L16\",null,{\"preview\":\"gqEEbqdVPYSs9EuKMbOK\",\"children\":[\"$\",\"div\",null,{\"className\":\"w-full relative bg-carbon-100 flex flex-col\",\"children\":[[\"$\",\"$L17\",null,{\"className\":\"sticky top-0 z-10\"}],[\"$\",\"main\",null,{\"className\":\"flex-grow overflow-y-auto\",\"children\":[\"$\",\"$L13\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"p\",\"children\",[\"preview\",\"gqEEbqdVPYSs9EuKMbOK\",\"d\"],\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"template\":[\"$\",\"$L14\",null,{}],\"templateStyles\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"childProp\":{\"current\":[\"$L18\",[\"$\",\"$L19\",null,{\"propsForComponent\":{\"params\":{\"preview\":\"gqEEbqdVPYSs9EuKMbOK\"},\"searchParams\":{\"wireframeId\":\"PtL774JuMVMsV8APastE\",\"fullscreen\":\"true\"}},\"Component\":\"$1a\",\"isStaticGeneration\":false}],null],\"segment\":\"__PAGE__?{\\\"wireframeId\\\":\\\"PtL774JuMVMsV8APastE\\\",\\\"fullscreen\\\":\\\"true\\\"}\"},\"styles\":[]}]}]]}]}],null],\"segment\":[\"preview\",\"gqEEbqdVPYSs9EuKMbOK\",\"d\"]},\"styles\":[]}],\"segment\":\"p\"},\"styles\":[]}],[\"$\",\"$L1b\",null,{}]]}]}]}]}]}]}]]}],null]}]]\n"])</script><script>self.__next_f.push([1,"6:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"1\",{\"children\":\"UX Pilot - Superfast UX/UI Design with AI\"}],[\"$\",\"meta\",\"2\",{\"name\":\"description\",\"content\":\"Generate Wireframes and UI Designs with the most flexible AI model. Design \u0026 Ship faster your products with AI.\"}],[\"$\",\"meta\",\"3\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:title\",\"content\":\"UX Pilot - Superfast UX/UI Design with AI\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:description\",\"content\":\"Generate Wireframes and UI Designs with the most flexible AI model. Design \u0026 Ship faster your products with AI.\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:url\",\"content\":\"https://uxpilot.ai/\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:site_name\",\"content\":\"uxpilot.ai\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:image\",\"content\":\"https://uxpilot.ai/assets/images/ux-pilot-sm.png\"}],[\"$\",\"meta\",\"9\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"10\",{\"name\":\"twitter:creator\",\"content\":\"@uxpilotai\"}],[\"$\",\"meta\",\"11\",{\"name\":\"twitter:title\",\"content\":\"UX Pilot - Superfast UX Design with AI\"}],[\"$\",\"meta\",\"12\",{\"name\":\"twitter:description\",\"content\":\"Generate Wireframes and UI Designs with the most flexible AI model. Design \u0026 Ship faster your products with AI.\"}],[\"$\",\"meta\",\"13\",{\"name\":\"twitter:image\",\"content\":\"https://uxpilot.ai/assets/images/ux-pilot-sm.png\"}],[\"$\",\"meta\",\"14\",{\"name\":\"next-size-adjust\"}]]\n"])</script><script>self.__next_f.push([1,"18:null\n"])</script><div id="9B29DA43-94C4-F407-28E1-75600ED532D2"></div><iframe name="__privateStripeController3981" frameborder="0" allowtransparency="true" scrolling="no" role="presentation" allow="payment *" src="https://js.stripe.com/v3/controller-with-preconnect-3df329cba2b6b629c026b0d70fd5b127.html#__shared_params__[version]=v3&amp;apiKey=pk_live_51Ng1Q3Fa1DYVihNz7yQ5AAiIUyqXhnGh02JFITxGh9iQFIS8BziNe0ehN0TYAcekilDDCveh5Gqo09PPlOkn0sSi00jJlg0MHz&amp;stripeJsId=9cd59028-e08b-4d7d-9e16-83464456c698&amp;firstStripeInstanceCreatedLatency=9&amp;controllerCount=1&amp;isCheckout=false&amp;stripeJsLoadTime=1748233028412&amp;manualBrowserDeprecationRollout=false&amp;mids[guid]=NA&amp;mids[muid]=e62e05ba-2a53-4ee4-a8a6-bd55c545346e127281&amp;mids[sid]=NA&amp;referrer=https%3A%2F%2Fuxpilot.ai%2Fp%2FgqEEbqdVPYSs9EuKMbOK%3FwireframeId%3DPtL774JuMVMsV8APastE%26fullscreen%3Dtrue&amp;controllerId=__privateStripeController3981" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;"></iframe><script src="//fw-cdn.com/12327869/4773415.js" chat="true" data-nscript="afterInteractive"></script><script id="gtm-tag" data-nscript="afterInteractive">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TFMPJG7S');</script><script src="https://www.googletagmanager.com/gtag/js?id=G-9L2Y115NQ3" id="gtag-config" data-nscript="afterInteractive"></script><script id="gtag-init" data-nscript="afterInteractive">
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-9L2Y115NQ3');
+                </script><script src="https://cdn.tolt.io/tolt.js" data-tolt="4f3afc26-81a7-430d-84a9-533c1104cb53" data-nscript="afterInteractive"></script><script src="https://js.stripe.com/v3/" data-nscript="afterInteractive"></script><next-route-announcer style="position: absolute;"></next-route-announcer><div id="fc_frame" class="fc-widget-small fc-launcher-text" style="bottom: 16px; right: 16px;"><iframe id="fc_widget" name="fc_widget" title="Chat" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div><style>#fc_frame.fc-launcher-text{width: 125px}</style><iframe name="__privateStripeMetricsController3980" frameborder="0" allowtransparency="true" scrolling="no" role="presentation" allow="payment *" src="https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fuxpilot.ai%2Fp%2FgqEEbqdVPYSs9EuKMbOK%3FwireframeId%3DPtL774JuMVMsV8APastE%26fullscreen%3Dtrue&amp;title=UX%20Pilot%20-%20Superfast%20UX%2FUI%20Design%20with%20AI&amp;referrer=https%3A%2F%2Fuxpilot.ai%2Fa%2Fui-design%3Fpage%3DgqEEbqdVPYSs9EuKMbOK&amp;muid=e62e05ba-2a53-4ee4-a8a6-bd55c545346e127281&amp;sid=NA&amp;version=6&amp;preview=false&amp;__shared_params__[version]=v3" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;"></iframe><iframe name="__privateStripeMetricsController7540" frameborder="0" allowtransparency="true" scrolling="no" role="presentation" allow="payment *" src="https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fuxpilot.ai%2Fp%2FgqEEbqdVPYSs9EuKMbOK%3FwireframeId%3DPtL774JuMVMsV8APastE%26fullscreen%3Dtrue&amp;title=UX%20Pilot%20-%20Superfast%20UX%2FUI%20Design%20with%20AI&amp;referrer=https%3A%2F%2Fuxpilot.ai%2Fa%2Fui-design%3Fpage%3DgqEEbqdVPYSs9EuKMbOK&amp;muid=e62e05ba-2a53-4ee4-a8a6-bd55c545346e127281&amp;sid=NA&amp;version=6&amp;preview=false&amp;__shared_params__[version]=v3" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;"></iframe></body></html>
