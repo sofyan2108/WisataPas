@@ -31,7 +31,7 @@ class DestinationPresenter {
   }
 
   async init() {
-    const username = localStorage.getItem("username") || "user4";
+    const username = localStorage.getItem("username") || "user5";
 
     try {
       const response = await fetch(CONFIG.RECOMENDATION, {
