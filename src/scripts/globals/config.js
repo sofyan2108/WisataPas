@@ -1,9 +1,11 @@
 const CONFIG = {
-    LOKA_API: {
-        CLIENT_ID: process.env.LOKA_CLIENT_ID || 'dummy_client_id_for_development',
-        CLIENT_SECRET: process.env.LOKA_CLIENT_SECRET || 'dummy_secret_key_for_development',
-        ENVIRONMENT: process.env.API_ENVIRONMENT || 'staging'
-    }
+  LOKA_API: {
+    CLIENT_ID: process.env.LOKA_CLIENT_ID || "dummy_client_id_for_development",
+    CLIENT_SECRET:
+      process.env.LOKA_CLIENT_SECRET || "dummy_secret_key_for_development",
+    ENVIRONMENT: process.env.API_ENVIRONMENT || "staging",
+  },
+  RECOMENDATION: "http://localhost:5000/rekomendasi",
 };
 
-export default CONFIG; 
+export default CONFIG;
