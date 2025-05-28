@@ -31,7 +31,7 @@ class DestinationPresenter {
   }
 
   async init() {
-    const username = localStorage.getItem("username") || "user5";
+    const username = localStorage.getItem("username") || "user11";
 
     try {
       const response = await fetch(CONFIG.RECOMENDATION, {
@@ -45,16 +45,17 @@ class DestinationPresenter {
       const data = await response.json();
 
       if (data.status === "success") {
+        // console.log(data.recommendations[0].item);
         this._destinations = data.recommendations.map((item, index) => ({
           id: index,
           title: item.item,
           description: item.deskripsi,
-          image: "default.jpg",
+          image: item.lokasi,
           location: "Indonesia",
           category: "Umum",
           rating: item.rating,
           price: item.harga,
-          facilities: [],
+          facilities: ["WiFi", "Toilet", "Parkir"],
         }));
       } else {
         console.warn("Tidak ada data rekomendasi:", data.message);
@@ -104,7 +105,11 @@ class DestinationPresenter {
     const filteredCount = this._getFilteredDestinations().length;
     return Math.ceil(filteredCount / this._itemsPerPage);
   }
-
+  // Test
+  getDestinationByTitle(title) {
+    return this._destinations.find((d) => d.title === title);
+  }
+  //
   handleFilterChange(filters) {
     this._filters = { ...this._filters, ...filters };
     this._currentPage = 1; // Reset to first page when filters change
