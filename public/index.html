@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="WisataPas - Temukan destinasi wisata terbaik di Indonesia">
     <title>WisataPas - Destinasi Wisata Indonesia</title>
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="PWA/icons/favicon-196.png">
+    <link rel="apple-touch-icon" href="PWA/icons/apple-icon-180.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
     <!-- <link rel="manifest" href="manifest.json"> -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -32,5 +35,17 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
+    <script>
+        // Registrasi service worker (sw) agar aplikasi berjalan offline.
+        if ("serviceWorker" in navigator) {
+            window.addEventListener("load", () => {
+                navigator.serviceWorker.register("/sw.js").then(reg => {
+                    console.log("Service Worker registered (scope: " + reg.scope + ")");
+                }).catch(err => {
+                    console.error("Service Worker registration failed: " + err);
+                });
+            });
+        }
+    </script>
 </body>
 </html> 
