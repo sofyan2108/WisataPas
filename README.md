@@ -1,6 +1,6 @@
-# WisataPas - Platform Rekomendasi Wisata di Pasuruan
+# WisataPas - Platform Rekomendasi Wisata di Seluruh Indonesia
 
-WisataPas adalah platform web yang menyediakan rekomendasi wisata di Kabupaten Pasuruan. Platform ini membantu pengguna menemukan destinasi wisata yang sesuai dengan preferensi mereka menggunakan teknologi AI.
+WisataPas adalah platform web yang menyediakan rekomendasi wisata di Seluruh Indonesia. Platform ini membantu pengguna menemukan destinasi wisata yang sesuai dengan preferensi mereka menggunakan teknologi AI.
 
 ## 🌟 Fitur Utama
 
