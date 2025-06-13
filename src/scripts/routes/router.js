@@ -1,16 +1,23 @@
 import HomePage from '../views/pages/home/home-view';
 import DestinationPage from '../views/pages/destination/destination-view';
-import DestinationDetail from '../views/pages/destination/destination-detail';
-import AccommodationPage from '../views/pages/accommodation/accommodation-view';
 import FavoritePage from '../views/pages/favorite/favorite-view';
 import AboutPage from '../views/pages/about/about-view';
+import LoginPage from '../views/pages/auth/login-view';
+import RegisterPage from '../views/pages/auth/register-view';
+import LoginPresenter from '../views/pages/auth/login-presenter';
+import RegisterPresenter from '../views/pages/auth/register-presenter';
+import HomePresenter from '../views/pages/home/home-presenter';
+import FavoritePresenter from '../views/pages/favorite/favorite-presenter';
+import AboutPresenter from '../views/pages/about/about-presenter';
 
 const routes = {
     '/': HomePage,
+    '/home': HomePage,
     '/destination': DestinationPage,
-    '/accommodation': AccommodationPage,
     '/favorite': FavoritePage,
     '/about': AboutPage,
+    '/login': LoginPage,
+    '/register': RegisterPage
 };
 
 class Router {
@@ -19,6 +26,14 @@ class Router {
         this._content = document.getElementById('mainContent');
         this._currentPage = null;
         this._isNavigating = false;
+    }
+
+    _isAuthenticated() {
+        return sessionStorage.getItem('user') !== null;
+    }
+
+    _isAuthPage(hash) {
+        return hash === '/login' || hash === '/register';
     }
 
     async handleUrlChange(forceReload = false) {
@@ -37,6 +52,11 @@ class Router {
             // Handle empty hash or root path
             if (!hash || hash === '/') {
                 console.log('Router: Empty hash or root path detected');
+                if (!this._isAuthenticated()) {
+                    window.location.hash = '#/login';
+                    this._isNavigating = false;
+                    return;
+                }
                 if (window.location.hash !== '#/') {
                     window.location.hash = '#/';
                     this._isNavigating = false;
@@ -45,12 +65,9 @@ class Router {
                 hash = '/';
             }
 
-            // Handle detail pages
-            const detailMatch = hash.match(/^\/destination\/(\d+)$/);
-            if (detailMatch) {
-                console.log('Router: Destination detail page detected');
-                const id = detailMatch[1];
-                this._handleDetailPage(id);
+            // Check authentication for protected routes
+            if (!this._isAuthenticated() && !this._isAuthPage(hash)) {
+                window.location.hash = '#/login';
                 this._isNavigating = false;
                 return;
             }
@@ -78,6 +95,24 @@ class Router {
             console.log('Router: Creating new page instance');
             this._currentPage = new Page();
             
+            // Initialize presenter based on page
+            if (hash === '/login') {
+                const presenter = new LoginPresenter(this._currentPage);
+                this._currentPage.setPresenter(presenter);
+            } else if (hash === '/register') {
+                const presenter = new RegisterPresenter(this._currentPage);
+                this._currentPage.setPresenter(presenter);
+            } else if (hash === '/' || hash === '/home') {
+                const presenter = new HomePresenter(this._currentPage);
+                this._currentPage.setPresenter(presenter);
+            } else if (hash === '/favorite') {
+                const presenter = new FavoritePresenter(this._currentPage);
+                this._currentPage.setPresenter(presenter);
+            } else if (hash === '/about') {
+                const presenter = new AboutPresenter(this._currentPage);
+                this._currentPage.setPresenter(presenter);
+            }
+
             console.log('Router: Rendering page');
             await this._currentPage.render(this._content);
             
@@ -100,27 +135,6 @@ class Router {
         }
     }
 
-    async _handleDetailPage(id) {
-        // Clear current page content and unmount if exists
-        if (this._currentPage && typeof this._currentPage.unmount === 'function') {
-            console.log('Router: Unmounting current page');
-            this._currentPage.unmount();
-        }
-        
-        if (this._content) {
-            this._content.innerHTML = '';
-        }
-
-        console.log('Router: Creating destination detail page');
-        this._currentPage = new DestinationDetail(id);
-        
-        console.log('Router: Rendering detail page');
-        await this._currentPage.render(this._content);
-        
-        console.log('Router: Running afterRender for detail page');
-        await this._currentPage.afterRender();
-    }
-
     init() {
         console.log('Router: Initializing');
         
@@ -135,7 +149,7 @@ class Router {
             console.log('Router: Initial load');
             // Force reload on initial load to ensure content is rendered
             if (!window.location.hash) {
-                window.location.hash = '#/';
+                window.location.hash = '#/login';
             } else {
                 this.handleUrlChange(true);
             }

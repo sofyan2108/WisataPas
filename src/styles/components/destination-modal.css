@@ -1,0 +1,328 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.destination-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 1200px;
+    max-height: 90vh;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1001;
+    overflow-y: auto;
+}
+
+.destination-modal__content {
+    position: relative;
+}
+
+.destination-modal__close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+}
+
+.destination-modal__close:hover {
+    background-color: #fff;
+}
+
+.destination-modal__header {
+    position: relative;
+    height: 300px;
+}
+
+.destination-modal__hero {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.destination-modal__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 24px;
+    color: #fff;
+}
+
+.destination-modal__title {
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+
+.destination-modal__meta {
+    display: flex;
+    gap: 16px;
+}
+
+.destination-modal__rating,
+.destination-modal__location {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.destination-modal__body {
+    padding: 24px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 24px;
+    place-items: center;
+}
+
+.destination-modal__main {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.destination-modal__sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.destination-modal__description h2,
+.destination-modal__gallery h2,
+.destination-modal__info h2,
+.destination-modal__activities h2,
+.destination-modal__map h2,
+.destination-modal__reviews h2,
+.destination-modal__recommendations h2 {
+    font-size: 1.5rem;
+    margin-bottom: 16px;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.gallery-item__caption {
+    margin-top: 8px;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.info-item h3 {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 4px;
+}
+
+.activities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.activity-item {
+    padding: 16px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.activity-item i {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 8px;
+}
+
+.activity-item h3 {
+    margin-bottom: 8px;
+}
+
+.info-section {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+/* Map Section specific styling */
+.info-section.map-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+}
+
+/* Map Container */
+.map-container {
+    width: 100%;
+    height: 300px;
+    background-color: #e0e0e0;
+    margin-top: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.map-info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.reviews-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.review-item {
+    padding: 16px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+
+.review-item__header {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 8px;
+}
+
+.review-item__photo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.review-item__meta h3 {
+    margin-bottom: 4px;
+}
+
+.review-item__rating {
+    color: #ffc107;
+    margin-bottom: 4px;
+}
+
+.review-item__date {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.recommendations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.recommendation-item {
+    display: flex;
+    gap: 16px;
+}
+
+.recommendation-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.recommendation-item__content {
+    flex: 1;
+}
+
+.recommendation-item__content h3 {
+    margin-bottom: 4px;
+}
+
+.recommendation-item__content p {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 8px;
+}
+
+@media (max-width: 768px) {
+    .destination-modal__body {
+        grid-template-columns: 1fr;
+    }
+
+    .destination-modal__header {
+        height: 200px;
+    }
+
+    .destination-modal__title {
+        font-size: 1.5rem;
+    }
+}
+
+/* Google Maps Link */
+.google-maps-link-container a {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.google-maps-link-container a:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Ensure the parent container centers it */
+.google-maps-link-container {
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* Ensure content within modal-info is horizontally centered */
+.modal-info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+} 

@@ -1,0 +1,19 @@
+/* Tambahkan (atau update) CSS berikut di dalam media query untuk mobile (max-width: 768px) */
+@media screen and (max-width: 768px) {
+  /* Ubah warna hamburger icon menjadi putih agar tidak menyatu dengan background */
+  nav .hamburger {
+    color: white;
+  }
+  /* Ubah agar navigation link (ul) terbuka di area kanan layar saat hamburger ditekan */
+  nav ul {
+    left: auto; /* hapus left: 0 */
+    right: 0; /* buka di area kanan */
+  }
+  footer .footer-content {
+    grid-template-columns: 2fr 2fr; /* Ubah jadi 2 kolom */
+    gap: 1rem; /* (opsional) kurangi gap antar kolom */
+  }
+  footer .footer-content .footer-section {
+    padding: 0.5rem; /* (opsional) kurangi padding agar footer tidak terlalu tinggi */
+  }
+} 

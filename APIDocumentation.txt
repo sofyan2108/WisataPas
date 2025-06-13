@@ -1,0 +1,173 @@
+Login
+const res = await fetch(
+'https://wisatapas-backend-vercel.vercel.app/api/login',
+{
+method: 'POST',
+headers: {
+'Content-Type': 'application/json',
+},
+body: JSON.stringify({ nama, password }),
+},
+);
+Register
+const res = await fetch(
+'https://wisatapas-backend-vercel.vercel.app/api/register',
+{
+method: 'POST',
+headers: {
+'Content-Type': 'application/json',
+},
+body: JSON.stringify({ nama, password1, password2 }),
+},
+);
+Simpan tempat favorit
+const response = await fetch(
+'https://wisatapas-backend-vercel.vercel.app/api/like',
+{
+method: 'POST',
+headers: { 'Content-Type': 'application/json' },
+body: JSON.stringify(data),
+},
+);
+Data merupakan nilai nilai dari elemen html
+const data = {
+id_user: idUser,
+nama_user: namaUser,
+id_tempat,
+nama_tempat,
+gambar,
+kategori,
+kota,
+koordinat,
+lat,
+long,
+harga,
+rating,
+deskripsi,
+};
+Diambil dari :
+const id_tempat = placeElement.querySelector('.id_tempat')?.value || '';
+const nama_tempat =
+placeElement.querySelector('.nama_tempat')?.textContent.trim() || '';
+const gambar =
+placeElement.querySelector('.gambar')?.getAttribute('src') || '';
+const kategori =
+placeElement
+.querySelector('.kategori')
+?.textContent.split(':')[1]
+?.trim() || '';
+const kota =
+placeElement
+.querySelector('.kota')
+?.textContent.split(':')[1]
+?.trim() || '';
+const koordinat =
+placeElement
+.querySelector('.koordinat')
+?.textContent.split(':')[1]
+?.trim() || '';
+const lat =
+placeElement
+.querySelector('.lat')
+?.nextSibling?.textContent.trim()
+.replace(',', '') || '';
+const long =
+placeElement
+.querySelector('.long')
+?.nextSibling?.textContent.trim() || '';
+const harga =
+placeElement
+.querySelector('.harga')
+?.textContent.split(':')[1]
+?.trim() || '';
+const rating =
+placeElement
+.querySelector('.rating')
+?.textContent.split(':')[1]
+?.trim() || '';
+const deskripsi =
+placeElement
+.querySelector('.deskripsi')
+?.textContent.split(':')[1]
+?.trim() || '';
+Menghapus tempat favorit
+const response = await fetch(
+'https://wisatapas-backend-vercel.vercel.app/api/unlike',
+{
+method: 'DELETE',
+headers: {
+'Content-Type': 'application/json',
+},
+body: JSON.stringify({
+id_user,
+nama_user,
+id_tempat,
+nama_tempat,
+}),
+},
+);
+Diambil dari:
+const id_user = await getAuthToLogin(tokenId);
+const nama_user = await checkUser(tokenNama);
+const id_tempat = favoriteDiv.querySelector('.place-id').value;
+const nama_tempat =
+favoriteDiv.querySelector('.place-name').textContent;
+Load tempat favorit user
+const response = await fetch(
+`https://wisatapas-backend-vercel.vercel.app/api/favorites/${idUser}`,
+);
+Recommendation
+const response = await fetch(
+'https://mjamalm18-fastapi-wisatapas.hf.space/recommendations',
+{
+method: 'POST',
+headers: { 'Content-Type': 'application/json' },
+body: JSON.stringify({ user_id: userID, favorite_place }),
+},
+);
+Search
+const response = await fetch(
+'https://mjamalm18-fastapi-wisatapas.hf.space/search',
+{
+method: 'POST',
+headers: { 'Content-Type': 'application/json' },
+body: JSON.stringify({ place: searchInput }),
+},
+);
+searchInput merupakan gabungan dari search + dropdown kategori +
+dropdown lokasi
+di merge dahulu
+Textgen
+try {
+// const response = await fetch('http://localhost:5000/textgen', {
+const response = await fetch(
+'https://mjamalm18-fastapi-wisatapas.hf.space/textgen',
+{
+method: 'POST',
+headers: { 'Content-Type': 'application/json' },
+body: JSON.stringify({
+user_id: await getAuthToLogin(tokenId),
+favorite_place: item.nama_tempat,
+}),
+},
+);
+favorite_place diambil dari html, sedangkan user_id diambil dari fetch authcheck-id
+Auth-check-id dan auth-check-user
+const res = await fetch(
+'https://wisatapas-backend-vercel.vercel.app/api/auth-check-id',
+{
+method: 'GET',
+headers: {
+Authorization: `Bearer ${token}`,
+},
+},
+);
+const res = await fetch(
+'https://wisatapas-backend-vercel.vercel.app/api/auth-check-name',
+{
+method: 'GET',
+headers: {
+Authorization: `Bearer ${token}`,
+},
+},
+);

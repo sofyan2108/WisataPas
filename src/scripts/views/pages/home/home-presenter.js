@@ -6,90 +6,88 @@ class HomePresenter {
 
     async init() {
         console.log('HomePresenter: Initializing');
-        // Mock data for initial render
-        const mockData = {
-            destinations: [
+        try {
+            // Load popular destinations
+            const destinations = await this._loadPopularDestinations();
+            
+            // Load favorites (using mock data for now)
+            const favorites = [
                 {
                     id: 1,
-                    title: 'Pantai Kuta',
-                    description: 'Pantai terkenal di Bali dengan pemandangan sunset yang menakjubkan',
-                    image: 'https://source.unsplash.com/800x600/?beach',
-                    rating: '4.5',
-                    location: 'Bali'
-                },
-                {
-                    id: 2,
-                    title: 'Candi Borobudur',
-                    description: 'Candi Buddha terbesar di dunia, warisan budaya yang menakjubkan',
-                    image: 'https://source.unsplash.com/800x600/?temple',
-                    rating: '4.8',
-                    location: 'Magelang'
-                },
-                {
-                    id: 3,
-                    title: 'Gunung Bromo',
-                    description: 'Gunung berapi aktif dengan pemandangan yang spektakuler',
-                    image: 'https://source.unsplash.com/800x600/?volcano',
-                    rating: '4.7',
-                    location: 'Jawa Timur'
-                }
-            ],
-            accommodations: [
-                {
-                    id: 1,
-                    title: 'Villa Sunset',
-                    description: 'Villa mewah dengan pemandangan laut yang indah',
-                    image: 'https://source.unsplash.com/800x600/?villa',
-                    rating: '4.6',
-                    price: 'Rp 2.000.000/malam'
-                },
-                {
-                    id: 2,
-                    title: 'Mountain Lodge',
-                    description: 'Penginapan nyaman di kaki gunung',
-                    image: 'https://source.unsplash.com/800x600/?lodge',
-                    rating: '4.4',
-                    price: 'Rp 800.000/malam'
-                },
-                {
-                    id: 3,
-                    title: 'City Hotel',
-                    description: 'Hotel bintang 4 di pusat kota',
-                    image: 'https://source.unsplash.com/800x600/?hotel',
-                    rating: '4.3',
-                    price: 'Rp 1.200.000/malam'
-                }
-            ],
-            favorites: [
-                {
-                    id: 1,
-                    title: 'Raja Ampat',
-                    description: 'Surga diving dengan keindahan bawah laut yang menakjubkan',
+                    Place_Name: 'Raja Ampat',
+                    Description: 'Surga diving dengan keindahan bawah laut yang menakjubkan',
                     image: 'https://source.unsplash.com/800x600/?island',
-                    rating: '4.9',
-                    location: 'Papua Barat'
+                    Rating: '4.9',
+                    City: 'Papua Barat'
                 },
                 {
                     id: 2,
-                    title: 'Danau Toba',
-                    description: 'Danau vulkanik terbesar di dunia',
+                    Place_Name: 'Danau Toba',
+                    Description: 'Danau vulkanik terbesar di dunia',
                     image: 'https://source.unsplash.com/800x600/?lake',
-                    rating: '4.7',
-                    location: 'Sumatera Utara'
+                    Rating: '4.7',
+                    City: 'Sumatera Utara'
                 },
                 {
                     id: 3,
-                    title: 'Nusa Penida',
-                    description: 'Pulau eksotis dengan pantai dan tebing yang menakjubkan',
+                    Place_Name: 'Nusa Penida',
+                    Description: 'Pulau eksotis dengan pantai dan tebing yang menakjubkan',
                     image: 'https://source.unsplash.com/800x600/?cliff',
-                    rating: '4.8',
-                    location: 'Bali'
+                    Rating: '4.8',
+                    City: 'Bali'
                 }
-            ]
-        };
+            ];
 
-        console.log('HomePresenter: Updating view with mock data');
-        this._view.updateContent(mockData);
+            console.log('HomePresenter: Updating view with real data');
+            this._view.updateContent({ destinations, favorites });
+        } catch (error) {
+            console.error('Error loading destinations:', error);
+            this._view.showError('Gagal memuat data destinasi');
+        }
+    }
+
+    async _loadPopularDestinations() {
+        try {
+            const response = await fetch('https://mjamalm18-fastapi-wisatapas.hf.space/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    place: ''
+                })
+            });
+
+            if (!response.ok) {
+                throw new Error('Failed to fetch destinations');
+            }
+
+            const data = await response.json();
+            console.log('Destinations response:', data);
+            
+            if (!data.results || data.results.length === 0) {
+                throw new Error('No destinations found');
+            }
+
+            // Validasi setiap objek destinasi
+            const validDestinations = data.results.filter(dest => {
+                return dest && 
+                       typeof dest === 'object' &&
+                       'Place_Name' in dest &&
+                       'Category' in dest &&
+                       'City' in dest &&
+                       'Rating' in dest;
+            });
+
+            if (validDestinations.length === 0) {
+                throw new Error('No valid destinations found');
+            }
+
+            return validDestinations;
+        } catch (error) {
+            console.error('Error loading popular destinations:', error);
+            throw error;
+        }
     }
 
     handleSearch(location, date) {

@@ -16,7 +16,7 @@ class Footer {
                                 <span>WisataPas</span>
                             </div>
                             <p class="footer__description">
-                                Temukan destinasi wisata dan akomodasi terbaik untuk perjalanan Anda di Indonesia.
+                                Temukan destinasi wisata terbaik untuk perjalanan Anda di Indonesia.
                             </p>
                         </div>
                         
@@ -25,7 +25,6 @@ class Footer {
                                 <h3 class="footer__title">Jelajahi</h3>
                                 <ul class="footer__list">
                                     <li><a href="#/destination">Destinasi</a></li>
-                                    <li><a href="#/accommodation">Akomodasi</a></li>
                                     <li><a href="#/favorite">Favorit</a></li>
                                     <li><a href="#/about">Tentang Kami</a></li>
                                 </ul>
@@ -35,7 +34,7 @@ class Footer {
                                 <h3 class="footer__title">Hubungi Kami</h3>
                                 <ul class="footer__list">
                                     <li><a href="mailto:info@wisatapas.com">info@wisatapas.com</a></li>
-                                    <li><a href="tel:+6281234567890">+62 812-3456-7890</a></li>
+                                    <li><a href="tel:+628xx-xxxx-xxxx">+62 8xx-xxxx-xxxx</a></li>
                                     <li>Jl. Wisata No. 123</li>
                                     <li>Jakarta, Indonesia</li>
                                 </ul>
@@ -62,7 +61,7 @@ class Footer {
                     </div>
                     
                     <div class="footer__bottom">
-                        <p>&copy; 2024 WisataPas. All rights reserved.</p>
+                        <p>&copy; 2025 WisataPas. All rights reserved.</p>
                     </div>
                 </div>
             </footer>

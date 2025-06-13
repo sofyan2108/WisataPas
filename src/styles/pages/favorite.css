@@ -1,7 +1,15 @@
+
 .page-header__stats {
     font-size: 1rem;
     color: var(--color-text-secondary);
     margin-top: 0.5rem;
+}
+h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    width: 100%;
 }
 
 .favorite {

@@ -1,0 +1,145 @@
+.favorite-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.favorite-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.favorite-card__image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.favorite-card__content {
+    padding: 15px;
+}
+
+.favorite-card__title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.favorite-card__description {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.favorite-card__info {
+    margin: 10px 0;
+}
+
+.favorite-card__info p {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #666;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.favorite-card__info i {
+    width: 20px;
+    color: #3498db;
+}
+
+.favorite-card__footer {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 15px;
+}
+
+.favorite-card__view-detail,
+.favorite-card__remove {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.favorite-card__view-detail {
+    flex: 1;
+    background-color: #3498db;
+    color: white;
+}
+
+.favorite-card__view-detail:hover {
+    background-color: #2980b9;
+}
+
+.favorite-card__remove {
+    flex: 1;
+    background-color: #dc3545;
+    color: white;
+}
+
+.favorite-card__remove:hover {
+    background-color: #c82333;
+}
+
+.favorite-section {
+    margin-bottom: 2rem;
+}
+
+.favorite-section__title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #333;
+    text-align: center;
+}
+
+.favorite-section__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+
+@media screen and (max-width: 1200px) {
+    .favorite-section__grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .favorite-section__grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.favorite-card__gentext {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #007bff;
+    border-radius: 4px;
+    font-style: italic;
+}
+
+.favorite-card__gentext strong {
+    color: #0056b3;
+    font-weight: bold;
+} 

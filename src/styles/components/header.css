@@ -21,7 +21,7 @@
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: var(--text-color);
+    color: var(--gray-900);
 }
 
 .header__logo-icon {
@@ -58,8 +58,12 @@
     position: relative;
 }
 
+.nav__item--auth {
+    margin-left: auto;
+}
+
 .nav__link {
-    color: var(--text-color);
+    color: var(--black);
     text-decoration: none;
     font-weight: 500;
     padding: 0.5rem;
@@ -80,6 +84,33 @@
     width: 100%;
     height: 2px;
     background-color: var(--primary-color);
+}
+
+.nav__link--auth {
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+/* Style untuk tombol Masuk */
+.nav__link--auth[data-logged-in="true"] {
+    color: #dc3545;
+}
+
+.nav__link--auth[data-logged-in="true"]:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+/* Style untuk tombol Keluar */
+.nav__link--auth[data-logged-in="false"] {
+    color: var(--primary-color);
+}
+
+.nav__link--auth[data-logged-in="false"]:hover {
+    background-color: var(--primary-color);
+    color: white;
 }
 
 .header__search {
@@ -114,7 +145,7 @@
     border: none;
     cursor: pointer;
     padding: 0.5rem;
-    color: var(--text-color);
+    color: var(--black);
     font-size: 1.5rem;
 }
 
@@ -136,11 +167,19 @@
     }
 
     .nav--mobile .nav__list {
+        align-items: center;
         flex-direction: column;
         gap: 1rem;
     }
 
     .header__mobile-button {
         display: block;
+    }
+
+    .nav__item--auth {
+        margin-left: 0;
+        margin-top: 10px;
+        border-top: 1px solid rgba(0, 0, 0, 0.1);
+        padding-top: 10px;
     }
 } 
